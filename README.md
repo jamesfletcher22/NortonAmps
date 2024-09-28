@@ -1,10 +1,10 @@
 **Norton Amplifier Test Board and Reports**
 
-This repo contains a test board for various configurations of low noise Common Base amplifiers, as well as the accompanying report.
+This repo contains a test board for various configurations of low noise Common Base amplifiers (Starting from the most basic Common Base topology, up to a push-pull Norton design), as well as the accompanying report.
 
-Norton Amplifiers are a configuration of Common Base amplifiers that have good IMD and Noise Figure performance
+Norton Amplifiers are a form of Common Base amplifiers with transformer feedback from collector to emiter that have good IMD (Specifically IP2) and Noise Figure performance
 
-The designs are based off Dallas' Lankfords paper:
+The designs are based off Dallas Lankford's paper on Norton Amplifiers:
 
 http://www.thegleam.com/ke5fx/norton/lankford.pdf
 
